@@ -1,0 +1,7 @@
+Read AGENTS.md first.
+Then read .ai_workflow/index.md.
+Execute only the current approved task listed there.
+Write the required report to .ai_workflow/reports/.
+Do not execute draft/rejected/blocked tasks.
+Do not commit secrets, raw private data, production exports, or private media.
+If the task is ambiguous or risky, stop and create a review request in .ai_workflow/reviews/ instead of guessing.
